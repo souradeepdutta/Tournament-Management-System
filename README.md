@@ -1,7 +1,7 @@
 # Tournament-Management-System
 Aadrito Datta & Souradeep Dutta
 
-###Requirements
+### Requirements
 - Python
 - Streamlit
 Note: To install streamlit run <code>pip install streamlit</code>
