@@ -5,11 +5,17 @@ Aadrito Datta & Souradeep Dutta
 - Python
 - Streamlit
 - My SQL
-Note: To install streamlit run <code>pip install streamlit</code>
+Note: To install streamlit run
+  ```
+  pip install streamlit
+  ```
 
 To run the project:
 1. Clone the repository
-2. Open terminal in the Directory and run <code>streamlit run ./Homepage.py</code>
+2. Open terminal in the Directory and run
+```
+streamlit run ./Homepage.py</code>
+```
 
 ### Tech Stack
 - Python
