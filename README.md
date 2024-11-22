@@ -6,9 +6,9 @@ Aadrito Datta & Souradeep Dutta
 - Streamlit
 - My SQL
 Note: To install streamlit run
-  ```
-  pip install streamlit
-  ```
+```
+pip install streamlit
+```
 
 To run the project:
 1. Clone the repository
