@@ -4,11 +4,17 @@ Aadrito Datta & Souradeep Dutta
 ### Requirements
 - Python
 - Streamlit
+- My SQL
 Note: To install streamlit run <code>pip install streamlit</code>
 
 To run the project:
 1. Clone the repository
 2. Open terminal in the Directory and run <code>streamlit run ./Homepage.py</code>
+
+### Tech Stack
+- Python
+- My SQL
+- Streamlit
 
 ## Problem Statement
 ***A new chess tournament management system that is designed to address these challenges***
